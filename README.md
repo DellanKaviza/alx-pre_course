@@ -1,3 +1,3 @@
 My first readme
 
-only time allowed to edit from github.com
+This is the only time allowed to edit from github.com
